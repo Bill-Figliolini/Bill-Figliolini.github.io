@@ -10,12 +10,15 @@
     "location": { "address": "", "postalCode": "", "city": "Newton", "countryCode": "USA", "region": "Massachusetts" },
     "profiles": [
       { "network": "github", "username": "Bill-Figliolini", "url": "http://github.com/bill-figliolini" },
-      { "network": "linkedin", "username": "Bill-Figliolini", "url": "http://linkedin.com/in/bill-figliolini" },
+      { "network": "linkedin", "username": "Bill-Figliolini", "url": "http://linkedin.com/in/bill-figliolini" }
     ]
   },
   "interests": [
+    { "name": "Software Design" },
+    { "name": "Backend Development" },
+    { "name": "DevOps Practices" },
     { "name": "Programming Language Design" },
-    { "name": "Systems Programming" },
+    { "name": "Systems Programming" }
   ],
   "skills": [
     {
@@ -45,7 +48,7 @@
       "endDate": "2020-12-01",
       "courses": [
       ]
-    },
+    }
   ],
   "work": [
     {
