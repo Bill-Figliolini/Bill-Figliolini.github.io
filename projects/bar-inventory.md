@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
 title: "Bar Inventory"
 date: 2026
 published: true
